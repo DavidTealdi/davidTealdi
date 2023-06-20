@@ -4,6 +4,7 @@
 
 - Tecnologias: HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, Sequelize, SQL, NoSql, PostgreSQL, MongoDB
 
-- Contacto
-   https://www.linkedin.com/in/david-tealdi-852471265/
-   tealdidavid12@gmail.com
+Porfolio: https://davidtealdi.github.io/Porfolio/
+  
+- linkedln:  https://www.linkedin.com/in/david-tealdi-852471265/
+- gmail: tealdidavid12@gmail.com
