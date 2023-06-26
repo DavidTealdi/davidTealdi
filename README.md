@@ -1,4 +1,4 @@
-### 🙋‍♂️ Sobre Mi
+### Sobre Mi 🙋‍♂️
 
 📄 ¿Quién soy? 📄
 Soy un desarrollador Full-Stack. Con manejo en HTML, CSS, JavaScript, React y Redux para el Frontend, NodeJs y Express para el desarrollo Backend y SQL con Postgres y NoSql con MongoDB para Bases de Datos. Con gran capacidad para trabajar en equipo y consolidar proyectos web con el mayor entusiasmo.
