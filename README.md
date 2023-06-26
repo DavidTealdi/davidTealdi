@@ -14,8 +14,7 @@ Soy una persona muy versátil, que encuentra en cada desafío una oportunidad pa
 
 ✅ Además, abordé un proyecto educativo de bootcamp SoyHenry - de manera individual - donde el objetivo era traer información de una api de Dogs, mostrar los datos de cada uno y crear Dogs nuevos en caso de requerirlo. Las tecnologías utilizadas en el proyecto son: React, Redux, NodeJs, Express, Sequelize y Postgres. LINK https://github.com/DavidTealdi/App-Dogs
 
-💻 Repositorio de GitHub 💻
-https://github.com/DavidTealdi
+🌐 Linkedln 🌐 https://www.linkedin.com/in/david-tealdi-852471265/
 
 💼 Porfolio 💼
 https://davidtealdi.github.io/Porfolio/
